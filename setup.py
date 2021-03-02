@@ -35,7 +35,7 @@ setup(
     long_description_content_type="text/markdown",
     license='MIT',
     url='https://github.com/param211/nsut',
-    download_url='https://github.com/CITGuru/cver/archive/1.0.0.tar.gz',
+    download_url='https://github.com/param211/nsut/archive/0.0.1.tar.gz',
     dependency_links=dependency_links,
     author_email='paramchauhan21@gmail.com',
     classifiers=[
